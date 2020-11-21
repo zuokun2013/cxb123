@@ -33,6 +33,10 @@
 
 **3.4.2.3. 了解- 感受和寿命**
 
+![](../.gitbook/assets/dy4-eternity.jpg)
+
+![](../.gitbook/assets/dy3-fra-angelico-last-judgement-14311.jpg)
+
 | 了解 | 地狱 |
 | :--- | :--- |
 | 痛苦/感受 | 一年四季一天24小时非常剧烈的痛苦，没有机会思维出离心，菩提心 |
