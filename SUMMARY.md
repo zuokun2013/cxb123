@@ -4,6 +4,7 @@
 
 ## 01地狱 <a id="xm01"></a>
 
+* [地狱无暇的修法](xm01/di-yu-wu-xia-de-xiu-fa.md)
 * [qianxingyindaowen19-xm3](xm01/qianxingyindaowen19-xm3.md)
 * [qianxingyindaowen17-xm1](xm01/qianxingyindaowen17-xm1.md)
 * [前行广释14辅导](xm01/qian-hang-guang-shi-14-fu-dao.md)
