@@ -33,14 +33,16 @@
 
 **3.4.2.3. 了解- 感受和寿命**
 
-![](../.gitbook/assets/dy4-eternity.jpg)
 
-![](../.gitbook/assets/dy3-fra-angelico-last-judgement-14311.jpg)
 
 | 了解 | 地狱 |
 | :--- | :--- |
 | 痛苦/感受 | 一年四季一天24小时非常剧烈的痛苦，没有机会思维出离心，菩提心 |
 | 时间 | 寿命特别长，上万年以上，在这么漫长的时间中就没有机会学习修行，行善的机会 |
+
+![](../.gitbook/assets/dy4-eternity.jpg)
+
+![](../.gitbook/assets/dy3-fra-angelico-last-judgement-14311.jpg)
 
 #### 3.4.3. 思维方法 - 第2阶段 对比
 
@@ -53,7 +55,6 @@
 
 **3.4.3.2. 具体对比 - 感受和寿命**
 
-![](../.gitbook/assets/xm-zhixingli.png)
 
 | 对比 | 地狱 | 我的世界 |
 | :--- | :--- | :--- |
@@ -69,3 +70,4 @@
 * **深深的体会到我这个机会很难得，而且地狱众生在很多万年中都没有的，所以现在我要好好珍惜**
 * **这就是修行的动力**
 
+![](../.gitbook/assets/xm-zhixingli.png)
