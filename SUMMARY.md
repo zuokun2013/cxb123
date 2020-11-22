@@ -31,3 +31,25 @@
 * [2对比](04-chang-shou-tian/2-dui-bi.md)
 * [3珍惜](04-chang-shou-tian/3-zhen-xi.md)
 
+## 05边地
+
+* [1了解](05-bian-di/1-le-jie.md)
+* [2对比](05-bian-di/2-dui-bi.md)
+* [3珍惜](05-bian-di/3-zhen-xi.md)
+
+## 06暗劫
+
+* [1了解](06-an-jie/1-le-jie.md)
+* [2对比](06-an-jie/2-dui-bi.md)
+* [3珍惜](06-an-jie/3-zhen-xi.md)
+
+## 07喑哑
+
+* [1了解](07-yin-ya/1-le-jie.md)
+* [2对比](07-yin-ya/2-dui-bi.md)
+* [3珍惜](07-yin-ya/3-zhen-xi.md)
+
+## 08邪见
+
+* [1了解](08-xie-jian/1-le-jie.md)
+
