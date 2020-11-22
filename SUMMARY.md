@@ -51,5 +51,6 @@
 
 ## 08邪见
 
-* [1了解](08-xie-jian/1-le-jie.md)
+* [1了解](08-xie-jian/1-le-jie/README.md)
+  * [2对比](08-xie-jian/1-le-jie/2-dui-bi.md)
 
