@@ -16,12 +16,18 @@
 ## 02饿鬼 <a id="xm02"></a>
 
 * [1了解](xm02/untitled.md)
+* [2对比](xm02/2-dui-bi.md)
+* [3珍惜](xm02/3-zhen-xi.md)
 
 ## 03旁生 <a id="xm03"></a>
 
 * [1了解](xm03/untitled.md)
+* [2对比](xm03/2-dui-bi.md)
+* [3珍惜](xm03/3-zhen-xi.md)
 
 ## 04长寿天
 
 * [1了解](04-chang-shou-tian/1-le-jie.md)
+* [2对比](04-chang-shou-tian/2-dui-bi.md)
+* [3珍惜](04-chang-shou-tian/3-zhen-xi.md)
 
