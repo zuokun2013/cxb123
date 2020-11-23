@@ -5,7 +5,7 @@
 ## 八无暇 <a id="8-wu-xia"></a>
 
 * [01地狱](8-wu-xia/01-di-yu/README.md)
-  * [1了解](8-wu-xia/01-di-yu/1-le-jie.md)
+  * [1了解](8-wu-xia/01-di-yu/1-liao-jie.md)
   * [2对比](8-wu-xia/01-di-yu/2-dui-bi.md)
   * [3珍惜](8-wu-xia/01-di-yu/3-zhen-xi.md)
 * [02饿鬼](8-wu-xia/02-e-gui/README.md)
