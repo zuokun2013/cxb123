@@ -39,18 +39,16 @@
 
 ## 十圆满 <a id="10-yuan-man"></a>
 
----
-
-* [1.9 得人身](1.9-de-ren-shen.md)
-* [1.10 生中土](1.10-sheng-zhong-tu.md)
-* [1.11 五根具足](1.11-wu-gen-ju-zu.md)
-* [1.12 业际不颠倒](1.12-ye-ji-bu-dian-dao.md)
-* [1.13 信佛法](1.13-xin-fo-fa.md)
-* [1.14 佛陀出世](1.14-fo-tuo-chu-shi.md)
-* [1.15 佛已说法](1.15-fo-yi-shuo-fa.md)
-* [1.16 佛法住世](1.16-fo-fa-zhu-shi.md)
-* [1.17 皈依三宝](1.17-gui-yi-san-bao.md)
-* [1.18 上师摄受](1.18-shang-shi-she-shou.md)
+* [1.9 得人身](10-yuan-man/1.9-de-ren-shen.md)
+* [1.10 生中土](10-yuan-man/1.10-sheng-zhong-tu.md)
+* [1.11 五根具足](10-yuan-man/1.11-wu-gen-ju-zu.md)
+* [1.12 业际不颠倒](10-yuan-man/1.12-ye-ji-bu-dian-dao.md)
+* [1.13 信佛法](10-yuan-man/1.13-xin-fo-fa.md)
+* [1.14 佛陀出世](10-yuan-man/1.14-fo-tuo-chu-shi.md)
+* [1.15 佛已说法](10-yuan-man/1.15-fo-yi-shuo-fa.md)
+* [1.16 佛法住世](10-yuan-man/1.16-fo-fa-zhu-shi.md)
+* [1.17 皈依三宝](10-yuan-man/1.17-gui-yi-san-bao.md)
+* [1.18 上师摄受](10-yuan-man/1.18-shang-shi-she-shou.md)
 
 ## 暂生缘八无暇
 
