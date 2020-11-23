@@ -12,18 +12,19 @@
   * [1了解](8-wu-xia/02-e-gui/01-liao-jie.md)
   * [2对比](8-wu-xia/02-e-gui/2-dui-bi.md)
   * [3珍惜](8-wu-xia/02-e-gui/3-zhen-xi.md)
+* [03旁生](8-wu-xia/03-pang-sheng/README.md)
+  * [2对比](8-wu-xia/03-pang-sheng/2-dui-bi.md)
+  * [3珍惜](8-wu-xia/03-pang-sheng/3-zhen-xi.md)
+  * [1了解](8-wu-xia/03-pang-sheng/untitled.md)
 
 ## 03旁生 <a id="xm03"></a>
 
-* [1了解](xm03/untitled.md)
-* [2对比](xm03/2-dui-bi.md)
-* [3珍惜](xm03/3-zhen-xi.md)
-
 ## 04长寿天
 
-* [1了解](04-chang-shou-tian/1-le-jie.md)
-* [2对比](04-chang-shou-tian/2-dui-bi.md)
-* [3珍惜](04-chang-shou-tian/3-zhen-xi.md)
+* [04长寿天](04-chang-shou-tian/04-chang-shou-tian/README.md)
+  * [3珍惜](04-chang-shou-tian/04-chang-shou-tian/3-zhen-xi.md)
+  * [1了解](04-chang-shou-tian/04-chang-shou-tian/1-le-jie.md)
+  * [2对比](04-chang-shou-tian/04-chang-shou-tian/2-dui-bi.md)
 
 ## 05边地
 
