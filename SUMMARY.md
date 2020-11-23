@@ -13,13 +13,13 @@
   * [2对比](8-wu-xia/1.2-e-gui/2-dui-bi.md)
   * [3珍惜](8-wu-xia/1.2-e-gui/3-zhen-xi.md)
 * [1.3 旁生](8-wu-xia/1.3-pang-sheng/README.md)
+  * [1了解](8-wu-xia/1.3-pang-sheng/untitled.md)
   * [2对比](8-wu-xia/1.3-pang-sheng/2-dui-bi.md)
   * [3珍惜](8-wu-xia/1.3-pang-sheng/3-zhen-xi.md)
-  * [1了解](8-wu-xia/1.3-pang-sheng/untitled.md)
 * [1.4 长寿天](8-wu-xia/1.4-chang-shou-tian-1/README.md)
-  * [3珍惜](8-wu-xia/1.4-chang-shou-tian-1/3-zhen-xi.md)
   * [1了解](8-wu-xia/1.4-chang-shou-tian-1/1-le-jie.md)
   * [2对比](8-wu-xia/1.4-chang-shou-tian-1/2-dui-bi.md)
+  * [3珍惜](8-wu-xia/1.4-chang-shou-tian-1/3-zhen-xi.md)
 * [1.5 边地](8-wu-xia/1.5-bian-di/README.md)
   * [1了解](8-wu-xia/1.5-bian-di/1-le-jie.md)
   * [2对比](8-wu-xia/1.5-bian-di/2-dui-bi.md)
@@ -39,7 +39,10 @@
 
 ## 十圆满 <a id="10-yuan-man"></a>
 
-* [1.9 得人身](10-yuan-man/1.9-de-ren-shen.md)
+* [1.9 得人身](10-yuan-man/1.9-de-ren-shen/README.md)
+  * [了解](10-yuan-man/1.9-de-ren-shen/le-jie.md)
+  * [对比](10-yuan-man/1.9-de-ren-shen/dui-bi.md)
+  * [珍惜](10-yuan-man/1.9-de-ren-shen/zhen-xi.md)
 * [1.10 生中土](10-yuan-man/1.10-sheng-zhong-tu.md)
 * [1.11 五根具足](10-yuan-man/1.11-wu-gen-ju-zu.md)
 * [1.12 业际不颠倒](10-yuan-man/1.12-ye-ji-bu-dian-dao.md)
