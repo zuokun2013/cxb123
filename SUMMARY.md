@@ -65,7 +65,14 @@
 
 ## 断缘心八无暇
 
-* [Untitled](duan-yuan-xin-ba-wu-xia/untitled.md)
+* [1.27 紧缚现行](duan-yuan-xin-ba-wu-xia/1.27-jin-fu-xian-xing.md)
+* [1.28 人格下劣](duan-yuan-xin-ba-wu-xia/1.28-ren-ge-xia-lie.md)
+* [1.29 不厌轮回](duan-yuan-xin-ba-wu-xia/1.29-bu-yan-lun-hui.md)
+* [1.30 无有正信](duan-yuan-xin-ba-wu-xia/1.30-wu-you-zheng-xin.md)
+* [1.31 行持恶业](duan-yuan-xin-ba-wu-xia/1.31-hang-chieye.md)
+* [1.32 心离法](duan-yuan-xin-ba-wu-xia/1.32-xin-li-fa.md)
+* [1.33 失坏律仪](duan-yuan-xin-ba-wu-xia/1.33-shi-huai-lv-yi.md)
+* [1.34 破三昧耶](duan-yuan-xin-ba-wu-xia/1.34-po-san-mei-ye.md)
 
 ---
 
