@@ -2,22 +2,22 @@
 
 * [入坐与出坐及人身难得 自修与学修安排](README.md)
 
-## 01地狱 <a id="xm01"></a>
+## 八无暇 <a id="8-wu-xia"></a>
 
-* [地狱无暇的修法](xm01/di-yu-wu-xia-de-xiu-fa.md)
-* [1了解](xm01/1-le-jie.md)
-* [2对比](xm01/2-dui-bi.md)
-* [3珍惜](xm01/3-zhen-xi.md)
-* [qianxingyindaowen19-xm3](xm01/qianxingyindaowen19-xm3.md)
-* [qianxingyindaowen17-xm1](xm01/qianxingyindaowen17-xm1.md)
-* [前行广释14辅导](xm01/qian-hang-guang-shi-14-fu-dao.md)
-* [前行广释14](xm01/untitled-1.md)
+* [地狱无暇的修法](8-wu-xia/di-yu-wu-xia-de-xiu-fa/README.md)
+  * [1了解](8-wu-xia/di-yu-wu-xia-de-xiu-fa/1-le-jie.md)
+  * [2对比](8-wu-xia/di-yu-wu-xia-de-xiu-fa/2-dui-bi.md)
+  * [3珍惜](8-wu-xia/di-yu-wu-xia-de-xiu-fa/3-zhen-xi.md)
+* [qianxingyindaowen19-xm3](8-wu-xia/qianxingyindaowen19-xm3.md)
+* [qianxingyindaowen17-xm1](8-wu-xia/qianxingyindaowen17-xm1.md)
+* [前行广释14辅导](8-wu-xia/qian-hang-guang-shi-14-fu-dao.md)
+* [前行广释14](8-wu-xia/untitled-1.md)
+* [02饿鬼](8-wu-xia/02-e-gui/README.md)
+  * [1了解](8-wu-xia/02-e-gui/01-liao-jie.md)
+  * [2对比](8-wu-xia/02-e-gui/2-dui-bi.md)
+  * [3珍惜](8-wu-xia/02-e-gui/3-zhen-xi.md)
 
-## 02饿鬼 <a id="xm02"></a>
-
-* [1了解](xm02/untitled.md)
-* [2对比](xm02/2-dui-bi.md)
-* [3珍惜](xm02/3-zhen-xi.md)
+## 十圆满 <a id="10-yuan-man"></a>
 
 ## 03旁生 <a id="xm03"></a>
 
