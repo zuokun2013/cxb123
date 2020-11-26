@@ -34,19 +34,22 @@
     * [1了解](ba-wu-xia/1.8-xie-jian/1.md)
     * [2对比](ba-wu-xia/1.8-xie-jian/2.md)
     * [3珍惜](ba-wu-xia/1.8-xie-jian/2-dui-bi.md)
+* [十圆满](shi-yuan-man/README.md)
+  * [1.9 得人身](shi-yuan-man/1.9-de-ren-shen.md)
+  * [1.10 生中土](shi-yuan-man/1.10-sheng-zhong-tu.md)
+  * [1.11 五根具足](shi-yuan-man/1.11-wu-gen-ju-zu.md)
+  * [1.12 业际不颠倒](shi-yuan-man/1.12-ye-ji-bu-dian-dao.md)
+  * [1.13 信佛法](shi-yuan-man/1.13-xin-fo-fa.md)
+  * [1.14 佛陀出世](shi-yuan-man/1.14-fo-tuo-chu-shi.md)
+  * [1.15 佛已说法](shi-yuan-man/1.15-fo-yi-shuo-fa.md)
+  * [1.16 佛法住世](shi-yuan-man/1.16-fo-fa-zhu-shi.md)
+  * [1.17 皈依三宝](shi-yuan-man/1.17-gui-yi-san-bao.md)
+  * [1.18 上师摄受](shi-yuan-man/1.18-shang-shi-she-shou.md)
+* [暂生缘](zan-sheng-yuan.md)
+* [断缘心](duan-yuan-xin.md)
+* [暇满之相](xia-man-zhi-xiang.md)
 
 ## 十圆满 <a id="10-yuan-man"></a>
-
-* [1.9 得人身](10-yuan-man/1.9-de-ren-shen.md)
-* [1.10 生中土](10-yuan-man/1.10-sheng-zhong-tu.md)
-* [1.11 五根具足](10-yuan-man/1.11-wu-gen-ju-zu.md)
-* [1.12 业际不颠倒](10-yuan-man/1.12-ye-ji-bu-dian-dao.md)
-* [1.13 信佛法](10-yuan-man/1.13-xin-fo-fa.md)
-* [1.14 佛陀出世](10-yuan-man/1.14-fo-tuo-chu-shi.md)
-* [1.15 佛已说法](10-yuan-man/1.15-fo-yi-shuo-fa.md)
-* [1.16 佛法住世](10-yuan-man/1.16-fo-fa-zhu-shi.md)
-* [1.17 皈依三宝](10-yuan-man/1.17-gui-yi-san-bao.md)
-* [1.18 上师摄受](10-yuan-man/1.18-shang-shi-she-shou.md)
 
 ## 暂生缘八无暇
 
