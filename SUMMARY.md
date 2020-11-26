@@ -82,4 +82,4 @@
 
 ## 参考资料
 
-* [慧灯之光]](can-kao-zi-liao/hui-deng-zhi-guang.md)
+* [慧灯之光](can-kao-zi-liao/hui-deng-zhi-guang.md)
