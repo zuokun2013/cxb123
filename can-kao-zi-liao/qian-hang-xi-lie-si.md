@@ -4,38 +4,9 @@ description: 系列四.祖师心髓5-大圆满龙钦宁提前行引导文备忘�
 
 # 前行系列四
 
+| 大圆满龙钦宁体前行引导文备忘录•暇满难得 |
+| :--- |
 
-
-|  |  |  |  |
-| :--- | :--- | :--- | :--- |
-|  | ![](blob:https://app.gitbook.com/1fbf8626-e978-4a49-b5c9-bf8c75083958) |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-![](blob:https://app.gitbook.com/acd4a663-7396-411c-ad6a-2414e969f509)
-
-![](blob:https://app.gitbook.com/8f6fe893-281f-43df-b94c-93cf86c83fe3)
-
- 
-
-免费结缘，非卖品，
-
-禁止用作任何商业用途。  
-  
-
-
-![](blob:https://app.gitbook.com/af909172-a84e-49fe-918f-6cb2d0f8ce50)
-
-[大圆满龙钦宁体前行引导文备忘录•暇满难得 ](applewebdata://7DA84842-2FC5-4EAB-9710-C71E622F6EC0#_Toc479610521)
-
-[大圆满龙钦宁体前行引导文备忘录•暇满难得讲记 ](applewebdata://7DA84842-2FC5-4EAB-9710-C71E622F6EC0#_Toc479610522)
-
-![](blob:https://app.gitbook.com/637fee07-d57b-4809-85e5-9165dc664e4b)![](blob:https://app.gitbook.com/38637f46-7a76-4708-a9c1-142761e6a16e)![](blob:https://app.gitbook.com/de996e6f-4b2f-4e5e-a32c-fbcc2b775afe)![](blob:https://app.gitbook.com/05b789f6-2244-4bdb-9385-8782e190544b)![](blob:https://app.gitbook.com/64265859-aec3-4e3b-be34-62ad9d466673)  
-
-
-![](blob:https://app.gitbook.com/38637f46-7a76-4708-a9c1-142761e6a16e)
-
-大圆满龙钦宁体前行引导文备忘录•暇满难得
 
 第二、所说之法的次第，即是暇满难得等六者。所谓的法，须如上述般依彼法调伏自己的心，如云“非以发髻非以棍”。是故，暇满等的此等法，需要在自心中数数地思维。
 
