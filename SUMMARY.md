@@ -6,6 +6,10 @@
     * [1了解](ba-wu-xia/1.8-xie-jian/1.md)
     * [2对比](ba-wu-xia/1.8-xie-jian/2.md)
     * [3珍惜](ba-wu-xia/1.8-xie-jian/2-dui-bi.md)
+  * [1.1地狱](ba-wu-xia/1.1-di-yu/README.md)
+    * [1了解](ba-wu-xia/1.1-di-yu/1-liao-jie.md)
+    * [2对比](ba-wu-xia/1.1-di-yu/2-dui-bi.md)
+    * [3珍惜](ba-wu-xia/1.1-di-yu/3-zhen-xi.md)
   * [1.7 喑哑](ba-wu-xia/1.7-yin-ya/README.md)
     * [1了解](ba-wu-xia/1.7-yin-ya/1-le-jie.md)
     * [2对比](ba-wu-xia/1.7-yin-ya/2-dui-bi.md)
@@ -30,10 +34,6 @@
     * [1了解](ba-wu-xia/1.2-e-gui/01-liao-jie.md)
     * [2对比](ba-wu-xia/1.2-e-gui/2-dui-bi.md)
     * [3珍惜](ba-wu-xia/1.2-e-gui/3-zhen-xi.md)
-  * [1.1地狱](ba-wu-xia/1.1-di-yu/README.md)
-    * [1了解](ba-wu-xia/1.1-di-yu/1-liao-jie.md)
-    * [2对比](ba-wu-xia/1.1-di-yu/2-dui-bi.md)
-    * [3珍惜](ba-wu-xia/1.1-di-yu/3-zhen-xi.md)
 
 ## 十圆满 <a id="10-yuan-man"></a>
 
