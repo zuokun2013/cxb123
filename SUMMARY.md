@@ -69,6 +69,7 @@
   * [1.37 暇满之比喻](xia-man-zhi-xiang/1.37-xia-man-zhi-bi-yu.md)
 * [参考资料](can-kao-zi-liao/README.md)
   * [大圆满前行](can-kao-zi-liao/da-yuan-man-qian-hang.md)
+  * [慧灯之光](can-kao-zi-liao/hui-deng-zhi-guang.md)
   * [禅修班视频](can-kao-zi-liao/chan-xiu-ban-shi-pin.md)
   * [前行广释](can-kao-zi-liao/qian-hang-guang-shi/README.md)
     * [八无暇](can-kao-zi-liao/qian-hang-guang-shi/ba-wu-xia.md)
