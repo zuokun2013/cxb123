@@ -89,4 +89,5 @@
   * [修心手册•珍惜暇满](can-kao-zi-liao/xiu-xin-shou-ce-zhen-xi-xia-man.md)
   * [苦口忠言](can-kao-zi-liao/ku-kou-zhong-yan.md)
   * [谈谈闻思修和再谈闻思修](can-kao-zi-liao/tan-tan-wen-si-xiu-he-zai-tan-wen-si-xiu.md)
+  * [一生修行的重点和归宿](can-kao-zi-liao/yi-sheng-xiu-hang-de-zhong-dian-he-gui-su.md)
 
