@@ -77,5 +77,5 @@
 * [1.35 暇满之因缘](1.35-xia-man-zhi-yin-yuan.md)
 * [1.36 暇满之数量](1.36-xia-man-zhi-shu-liang.md)
 * [1.37 暇满之比喻](1.37-xia-man-zhi-bi-yu.md)
-* [参考资料](can-kao-zi-liao.md)
 
+* [参考资料](can-kao-zi-liao/README.md)
