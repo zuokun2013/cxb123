@@ -87,6 +87,7 @@
   * [菩提道次第广论](can-kao-zi-liao/pu-ti-dao-ci-di-guang-lun.md)
   * [前行系列二](can-kao-zi-liao/qian-hang-xi-lie-er.md)
   * [前行系列三](can-kao-zi-liao/qian-hang-xi-lie-san.md)
+  * [前行系列四](can-kao-zi-liao/qian-hang-xi-lie-si.md)
   * [修心手册•珍惜暇满](can-kao-zi-liao/xiu-xin-shou-ce-zhen-xi-xia-man.md)
   * [苦口忠言](can-kao-zi-liao/ku-kou-zhong-yan.md)
   * [谈谈闻思修和再谈闻思修](can-kao-zi-liao/tan-tan-wen-si-xiu-he-zai-tan-wen-si-xiu.md)
