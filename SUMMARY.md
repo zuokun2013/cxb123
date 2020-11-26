@@ -79,3 +79,17 @@
 * [1.37 暇满之比喻](1.37-xia-man-zhi-bi-yu.md)
 
 * [参考资料](can-kao-zi-liao/README.md)
+* [1](can-kao-zi-liao/README.md)
+
+* [2](can-kao-zi-liao/chan-xiu-ban-shi-pin.md)
+* [3](can-kao-zi-liao/da-yuan-man-qian-hang.md)
+* [4](can-kao-zi-liao/da-yuan-man-xin-xing-xiu-xi.md)
+* [5](can-kao-zi-liao/ku-kou-zhong-yan.md)
+* [6](can-kao-zi-liao/pu-ti-dao-ci-di-guang-lun.md)
+* [7](can-kao-zi-liao/qian-hang-guang-shi)
+* [8](can-kao-zi-liao/qian-hang-xi-lie-er.md)
+* [9](can-kao-zi-liao/qian-hang-xi-lie-san.md)
+* [10](can-kao-zi-liao/qian-hang-xi-lie-si.md)
+* [11](can-kao-zi-liao/tan-tan-wen-si-xiu-he-zai-tan-wen-si-xiu.md)
+* [12](can-kao-zi-liao/xiu-xin-shou-ce-zhen-xi-xia-man.md)
+* [13](can-kao-zi-liao/yi-sheng-xiu-hang-de-zhong-dian-he-gui-su.md)
