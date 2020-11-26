@@ -75,7 +75,7 @@
   * [2](can-kao-zi-liao/chan-xiu-ban-shi-pin.md)
   * [4](can-kao-zi-liao/da-yuan-man-xin-xing-xiu-xi.md)
   * [5](can-kao-zi-liao/ku-kou-zhong-yan.md)
-  * [6](pcan-kao-zi-liao/u-ti-dao-ci-di-guang-lun.md)
+  * [6](pcan-kao-zi-liao/pu-ti-dao-ci-di-guang-lun.md)
   * [8](can-kao-zi-liao/qian-hang-xi-lie-er.md)
   * [9](can-kao-zi-liao/qian-hang-xi-lie-san.md)
   * [10](can-kao-zi-liao/qian-hang-xi-lie-si.md)
