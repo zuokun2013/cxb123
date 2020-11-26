@@ -86,4 +86,5 @@
   * [大圆满心性休息](can-kao-zi-liao/da-yuan-man-xin-xing-xiu-xi.md)
   * [菩提道次第广论](can-kao-zi-liao/pu-ti-dao-ci-di-guang-lun.md)
   * [修心手册•珍惜暇满](can-kao-zi-liao/xiu-xin-shou-ce-zhen-xi-xia-man.md)
+  * [苦口忠言](can-kao-zi-liao/ku-kou-zhong-yan.md)
 
