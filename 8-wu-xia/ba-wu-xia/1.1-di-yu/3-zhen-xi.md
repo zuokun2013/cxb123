@@ -24,7 +24,7 @@
 
 
 
-![](../../.gitbook/assets/xm-zhixingli.png)
+![](../../../.gitbook/assets/xm-zhixingli.png)
 
 ## 前行修法之重要性--生西法师前行广释14辅导
 
