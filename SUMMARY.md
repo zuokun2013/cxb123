@@ -46,38 +46,30 @@
   * [1.17 皈依三宝](shi-yuan-man/1.17-gui-yi-san-bao.md)
   * [1.18 上师摄受](shi-yuan-man/1.18-shang-shi-she-shou.md)
 * [暂生缘](zan-sheng-yuan.md)
+  * [1.19 五毒](zan-sheng-yuan-ba-wu-xia/1.19-wu-du.md)
+  * [1.20 愚痴](zan-sheng-yuan-ba-wu-xia/1.20-yu-chi.md)
+  * [1.21 魔所持](zan-sheng-yuan-ba-wu-xia/1.21-mo-suo-chi.md)
+  * [1.22 懈怠](zan-sheng-yuan-ba-wu-xia/1.22-xie-dai.md)
+  * [1.23 恶业涌现](zan-sheng-yuan-ba-wu-xia/1.23-eye-yong-xian.md)
+  * [1.24 随他所转](zan-sheng-yuan-ba-wu-xia/1.24-sui-ta-suo-zhuan.md)
+  * [1.25 求乐救怖](zan-sheng-yuan-ba-wu-xia/1.25-qiu-le-jiu-bu.md)
+  * [1.26 伪装修法](zan-sheng-yuan-ba-wu-xia/1.26-wei-zhuang-xiu-fa.md)
 * [断缘心](duan-yuan-xin.md)
+  * [1.27 紧缚现行](duan-yuan-xin-ba-wu-xia/1.27-jin-fu-xian-xing.md)
+  * [1.28 人格下劣](duan-yuan-xin-ba-wu-xia/1.28-ren-ge-xia-lie.md)
+  * [1.29 不厌轮回](duan-yuan-xin-ba-wu-xia/1.29-bu-yan-lun-hui.md)
+  * [1.30 无有正信](duan-yuan-xin-ba-wu-xia/1.30-wu-you-zheng-xin.md)
+  * [1.31 行持恶业](duan-yuan-xin-ba-wu-xia/1.31-hang-chieye.md)
+  * [1.32 心离法](duan-yuan-xin-ba-wu-xia/1.32-xin-li-fa.md)
+  * [1.33 失坏律仪](duan-yuan-xin-ba-wu-xia/1.33-shi-huai-lv-yi.md)
+  * [1.34 破三昧耶](duan-yuan-xin-ba-wu-xia/1.34-po-san-mei-ye.md)
 * [暇满之相](xia-man-zhi-xiang.md)
-
-## 十圆满 <a id="10-yuan-man"></a>
-
-## 暂生缘八无暇
-
-* [1.19 五毒](zan-sheng-yuan-ba-wu-xia/1.19-wu-du.md)
-* [1.20 愚痴](zan-sheng-yuan-ba-wu-xia/1.20-yu-chi.md)
-* [1.21 魔所持](zan-sheng-yuan-ba-wu-xia/1.21-mo-suo-chi.md)
-* [1.22 懈怠](zan-sheng-yuan-ba-wu-xia/1.22-xie-dai.md)
-* [1.23 恶业涌现](zan-sheng-yuan-ba-wu-xia/1.23-eye-yong-xian.md)
-* [1.24 随他所转](zan-sheng-yuan-ba-wu-xia/1.24-sui-ta-suo-zhuan.md)
-* [1.25 求乐救怖](zan-sheng-yuan-ba-wu-xia/1.25-qiu-le-jiu-bu.md)
-* [1.26 伪装修法](zan-sheng-yuan-ba-wu-xia/1.26-wei-zhuang-xiu-fa.md)
-
-## 断缘心八无暇
-
-* [1.27 紧缚现行](duan-yuan-xin-ba-wu-xia/1.27-jin-fu-xian-xing.md)
-* [1.28 人格下劣](duan-yuan-xin-ba-wu-xia/1.28-ren-ge-xia-lie.md)
-* [1.29 不厌轮回](duan-yuan-xin-ba-wu-xia/1.29-bu-yan-lun-hui.md)
-* [1.30 无有正信](duan-yuan-xin-ba-wu-xia/1.30-wu-you-zheng-xin.md)
-* [1.31 行持恶业](duan-yuan-xin-ba-wu-xia/1.31-hang-chieye.md)
-* [1.32 心离法](duan-yuan-xin-ba-wu-xia/1.32-xin-li-fa.md)
-* [1.33 失坏律仪](duan-yuan-xin-ba-wu-xia/1.33-shi-huai-lv-yi.md)
-* [1.34 破三昧耶](duan-yuan-xin-ba-wu-xia/1.34-po-san-mei-ye.md)
+  * [1.35 暇满之因缘](1.35-xia-man-zhi-yin-yuan.md)
+  * [1.36 暇满之数量](1.36-xia-man-zhi-shu-liang.md)
+  * [1.37 暇满之比喻](1.37-xia-man-zhi-bi-yu.md)
 
 ---
 
-* [1.35 暇满之因缘](1.35-xia-man-zhi-yin-yuan.md)
-* [1.36 暇满之数量](1.36-xia-man-zhi-shu-liang.md)
-* [1.37 暇满之比喻](1.37-xia-man-zhi-bi-yu.md)
 * [参考资料](can-kao-zi-liao.md)
 * [1](can-kao-zi-liao-1.md)
 * [2](chan-xiu-ban-shi-pin.md)
@@ -92,4 +84,3 @@
 * [11](tan-tan-wen-si-xiu-he-zai-tan-wen-si-xiu.md)
 * [12](xiu-xin-shou-ce-zhen-xi-xia-man.md)
 * [13](yi-sheng-xiu-hang-de-zhong-dian-he-gui-su.md)
-
