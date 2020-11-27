@@ -11,7 +11,7 @@
     * [2对比](ba-wu-xia/1.2-e-gui/2-dui-bi.md)
     * [3珍惜](ba-wu-xia/1.2-e-gui/3-zhen-xi.md)
   * [1.3 旁生](ba-wu-xia/1.3-pang-sheng/README.md)
-    * [1了解](ba-wu-xia/1.3-pang-sheng/untitled.md)
+    * [1了解](ba-wu-xia/1.3-pang-sheng/1-liao-jie.md)
     * [2对比](ba-wu-xia/1.3-pang-sheng/2-dui-bi.md)
     * [3珍惜](ba-wu-xia/1.3-pang-sheng/3-zhen-xi.md)
   * [1.4 长寿天](ba-wu-xia/1.4-chang-shou-tian-1/README.md)
