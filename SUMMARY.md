@@ -90,3 +90,8 @@
   * [珍惜暇满](can-kao-zi-liao/xiu-xin-shou-ce-zhen-xi-xia-man.md)
   * [一生修行的重点和归宿](can-kao-zi-liao/yi-sheng-xiu-hang-de-zhong-dian-he-gui-su.md)
 
+## 参考笔记
+
+* [Angela](can-kao-bi-ji/angela/README.md)
+  * [暇满之地狱支饿鬼支](can-kao-bi-ji/angela/xia-man-zhi-di-yu-zhiegui-zhi.md)
+
