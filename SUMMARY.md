@@ -47,6 +47,8 @@
     * [1了解](shi-yuan-man/1.12-ye-ji-bu-dian-dao/1-le-jie.md)
   * [1.13 信佛法](shi-yuan-man/1.13-xin-fo-fa/README.md)
     * [1了解](shi-yuan-man/1.13-xin-fo-fa/1-le-jie.md)
+    * [2对比](shi-yuan-man/1.13-xin-fo-fa/2-dui-bi.md)
+    * [3珍惜](shi-yuan-man/1.13-xin-fo-fa/3-zhen-xi.md)
   * [1.14 佛陀出世](shi-yuan-man/1.14-fo-tuo-chu-shi/README.md)
     * [1了解](shi-yuan-man/1.14-fo-tuo-chu-shi/1-le-jie.md)
   * [1.15 佛已说法](shi-yuan-man/1.15-fo-yi-shuo-fa/README.md)
