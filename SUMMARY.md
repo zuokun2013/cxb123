@@ -41,6 +41,8 @@
     * [3珍惜](shi-yuan-man/1.9-de-ren-shen/3-zhen-xi.md)
   * [1.10 生中土](shi-yuan-man/1.10-sheng-zhong-tu/README.md)
     * [1了解](shi-yuan-man/1.10-sheng-zhong-tu/1-le-jie.md)
+    * [2对比](shi-yuan-man/1.10-sheng-zhong-tu/2-dui-bi.md)
+    * [3珍惜](shi-yuan-man/1.10-sheng-zhong-tu/3-zhen-xi.md)
   * [1.11 五根具足](shi-yuan-man/1.11-wu-gen-ju-zu/README.md)
     * [1了解](shi-yuan-man/1.11-wu-gen-ju-zu/1-le-jie.md)
   * [1.12 业际不颠倒](shi-yuan-man/1.12-ye-ji-bu-dian-dao/README.md)
