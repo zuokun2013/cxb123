@@ -37,6 +37,8 @@
 * [十圆满](shi-yuan-man/README.md)
   * [1.9 得人身](shi-yuan-man/1.9-de-ren-shen/README.md)
     * [1了解](shi-yuan-man/1.9-de-ren-shen/1-le-jie.md)
+    * [2对比](shi-yuan-man/1.9-de-ren-shen/2-dui-bi.md)
+    * [3珍惜](shi-yuan-man/1.9-de-ren-shen/3-zhen-xi.md)
   * [1.10 生中土](shi-yuan-man/1.10-sheng-zhong-tu/README.md)
     * [1了解](shi-yuan-man/1.10-sheng-zhong-tu/1-le-jie.md)
   * [1.11 五根具足](shi-yuan-man/1.11-wu-gen-ju-zu/README.md)
