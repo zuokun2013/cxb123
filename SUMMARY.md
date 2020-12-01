@@ -100,6 +100,7 @@
     * [1了解](xia-man-zhi-xiang/1.37-xia-man-zhi-bi-yu/1-le-jie.md)
 * [参考资料](can-kao-zi-liao/README.md)
   * [大圆满前行](can-kao-zi-liao/da-yuan-man-qian-hang.md)
+  * [慧灯之光\(全\)](can-kao-zi-liao/hui-deng-zhi-guang-quan.md)
   * [慧灯之光](can-kao-zi-liao/hui-deng-zhi-guang.md)
   * [禅修班视频](can-kao-zi-liao/chan-xiu-ban-shi-pin/README.md)
     * [人身难得 视频 1](can-kao-zi-liao/chan-xiu-ban-shi-pin/ren-shen-nan-de-shi-pin-1.md)
