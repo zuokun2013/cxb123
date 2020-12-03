@@ -69,6 +69,8 @@
     * [3珍惜](shi-yuan-man/1.16-fo-fa-zhu-shi/3-zhen-xi.md)
   * [1.17 皈依三宝](shi-yuan-man/1.17-gui-yi-san-bao/README.md)
     * [1了解](shi-yuan-man/1.17-gui-yi-san-bao/1-le-jie.md)
+    * [2对比](shi-yuan-man/1.17-gui-yi-san-bao/2-dui-bi.md)
+    * [3珍惜](shi-yuan-man/1.17-gui-yi-san-bao/3-zhen-xi.md)
   * [1.18 上师摄受](shi-yuan-man/1.18-shang-shi-she-shou/README.md)
     * [1了解](shi-yuan-man/1.18-shang-shi-she-shou/1-le-jie.md)
     * [2对比](shi-yuan-man/1.18-shang-shi-she-shou/2-dui-bi.md)
