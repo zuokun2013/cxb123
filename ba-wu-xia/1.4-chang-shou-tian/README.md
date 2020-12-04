@@ -1,8 +1,6 @@
 # 1.4 长寿天
 
-
-
-{% page-ref page="../1.1-di-yu/2-dui-bi.md" %}
+{% page-ref page="../1.4-chang-shou-tian/2-dui-bi.md" %}
 
 
 
