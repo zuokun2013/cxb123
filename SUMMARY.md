@@ -33,7 +33,7 @@
   * [1.8 邪见](ba-wu-xia/1.8-xie-jian/README.md)
     * [1了解](ba-wu-xia/1.8-xie-jian/1-liao-jie.md)
     * [2对比](ba-wu-xia/1.8-xie-jian/2-dui-bi.md)
-    * [3珍惜](ba-wu-xia/1.8-xie-jian/2-zhen-xi.md)
+    * [3珍惜](ba-wu-xia/1.8-xie-jian/3-zhen-xi.md)
 * [十圆满](shi-yuan-man/README.md)
   * [1.9 得人身](shi-yuan-man/1.9-de-ren-shen/README.md)
     * [1了解](shi-yuan-man/1.9-de-ren-shen/1-le-jie.md)
